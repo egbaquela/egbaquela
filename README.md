@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egbaquela
-- 👀 I’m interested in ...
+- 👀 I’m interested in things related to decisions: how we make decisions, which is the best way to make decisions, how to automatize decision making.
 - 🌱 I’m currently learning Julia, Decision Sciences, Operations Research, Artificial Inteligence, Maths, Sociology and Anthropology. And also how to play a guitar and a kalimba. And some Kali.
 - 💞️ I’m looking to collaborate on Decision Sciences related projects.
 - 📫 How could you reach me?, well, you can ping me to ebaquela@frsn.utn.edu.ar, or visit my Linkedin profile at https://ar.linkedin.com/in/egbaquela
